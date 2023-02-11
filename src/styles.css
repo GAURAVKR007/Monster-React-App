@@ -23,3 +23,14 @@
 .card-container:hover {
     transform: scale(0.95);
 }
+
+.search {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 13px;
+    width: 200px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+}
